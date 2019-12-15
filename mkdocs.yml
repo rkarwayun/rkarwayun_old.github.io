@@ -3,3 +3,8 @@ site_name: 'Rishabh Karwayun'
 site_description: 'Rishabh Karwayun'
 site_author: 'Rishabh Karwayun'
 site_url: 'https://rkarwayun.github.io/'
+
+
+# Repository
+repo_name: 'rkarwayun/rkarwayun.github.io'
+repo_url: 'https://github.com/rkarwayun/rkarwayun.github.io'
